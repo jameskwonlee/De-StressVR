@@ -2,9 +2,9 @@
 A Fully-Immersive VR app that helps the user unwind and de-stress. Made with UE4. Created by FramersVR.
 
 A FramersVR project
-Produced and Written by: James Kwon Lee and Ting Ting Ng
-Developer: James Kwon Lee
-Sound Designer: Ting Ting Ng
+Created by: James Kwon Lee and Ting Ting Ng
+Unreal Developer: James Kwon Lee
+Sound Designer/Researcher: Ting Ting Ng
 
 Unreal Version: 4.15.3
 
