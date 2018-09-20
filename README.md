@@ -8,7 +8,7 @@ Sound Designer/Researcher: Ting Ting Ng
 
 Unreal Version: 4.15.3
 
-Headset: Oculus Rift
+Headsets: PSVR, Oculus Rift, HTC Vive
 
 3rd Party Assets Used:
 
