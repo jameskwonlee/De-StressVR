@@ -1,4 +1,4 @@
-# DeStressVR
+# De-StressVR
 A Fully-Immersive VR app that helps the user unwind and de-stress. Made with UE4. Created by FramersVR.
 
 A FramersVR project
