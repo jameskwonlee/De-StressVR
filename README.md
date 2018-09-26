@@ -8,11 +8,11 @@ Sound Designer/Researcher: Ting Ting Ng
 
 Unreal Version: 4.15.3
 
-Headsets: PSVR, Oculus Rift, HTC Vive
+Headsets: Oculus Rift, Oculus Go, PSVR, HTC Vive
 
 3rd Party Assets Used:
 
-Design of Locomotion:
+Design of Locomotion:Seated Experience
 
 Player Controls of experience:
 
