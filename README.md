@@ -15,7 +15,9 @@ Headsets: Oculus Rift, Oculus Go, PSVR, HTC Vive
 Design of Locomotion:Seated Experience
 
 Player Controls of experience:
+point and click, grab if headset allows, breathing if mic enabled
 
 Other notes:
+
 
 
